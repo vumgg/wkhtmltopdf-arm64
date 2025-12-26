@@ -133,7 +133,7 @@ The package version (Git tag) corresponds to the wkhtmltopdf version:
 ## Comparison Matrix
 
 | Feature | This Package | h4cc/wkhtmltopdf-amd64 | System Package | Docker | From Source |
-|---------|-------------|------------------------|----------------|--------|-------------|
+|---------|--------------|------------------------|----------------|--------|-------------|
 | **Architecture** | ARM64 only | x86_64 only | Various | Various | Any |
 | **Installation** | Composer | Composer | apt/yum | Docker pull | Build tools |
 | **Size** | ~515KB | ~40MB | Varies | ~200MB+ | N/A |
