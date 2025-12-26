@@ -4,6 +4,10 @@ wkhtmltopdf
 This repository contains the static compiled binaries from the [wkhtmltopdf project](http://wkhtmltopdf.org/) on arm64 system.
 More about the functionality of wkhtmltopdf and wkthmltoimage can be found there.
 
+## Architecture
+
+For detailed information about the architecture and how this distribution differs from others, see [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ## Installation
 
 _Hint_:
